@@ -50106,7 +50106,7 @@
         </attvalues>
         <viz:color r="181" g="144" b="99"/>
         <viz:size value="12.39705863584958"/>
-        <viz:position x="470.7104797363281" y="950.5908813476562"/>
+        <viz:position x="509.86755395343357" y="1001.3843968568108"/>
       </node>
       <node id="variant_8d29a4fb1da02281" label="bainihimū">
         <attvalues>
@@ -52144,7 +52144,7 @@
       <node id="variant_5d8722bb4dcc1cd8" label="ṣiliyyan">
         <attvalues>
           <attvalue for="type" value="variant"/>
-          <attvalue for="modularityClass" value="2"/>
+          <attvalue for="modularityClass" value="true"/>
           <attvalue for="rawSize" value="5"/>
           <attvalue for="surah" value="19"/>
           <attvalue for="verse" value="70"/>
@@ -52158,7 +52158,7 @@
         </attvalues>
         <viz:color r="157" g="201" b="113"/>
         <viz:size value="5"/>
-        <viz:position x="1975.557091276623" y="-1090.6777439795687"/>
+        <viz:position x="1978.4888308709901" y="-1090.070823067328"/>
       </node>
       <node id="variant_1f3e1a84cbeecd7b" label="ṣuliyyan">
         <attvalues>
